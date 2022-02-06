@@ -44,3 +44,6 @@
 //     console.log('нуль')
 // }
 // console.log(a)
+
+// let a = Math.round(Math.random()*200) -100;
+// a<0 ? console.log('negateve number') : a > 0 ? console.log('positive number') :console.log('zero')
