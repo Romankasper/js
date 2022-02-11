@@ -31,3 +31,14 @@
 //   foo([9,8,0,4], 2) // ==> [ 9, 8, 4, 0 ]
 
 
+// const changePlace = (array,number) =>{
+//         for (let i = 0; i < array.length; i++) {
+//             if(i === number){
+//                 array.splice(i,0,array.splice(i+1,1))
+//             }
+//         }
+//     return document.write(array)
+// }
+// let arr =[1, 23,123,12,343,12,'okten',10]
+// changePlace(arr,2)
+
