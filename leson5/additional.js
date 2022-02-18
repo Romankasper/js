@@ -42,3 +42,4 @@
 // let arr =[1, 23,123,12,343,12,'okten',10]
 // changePlace(arr,2)
 
+
