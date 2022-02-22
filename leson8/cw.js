@@ -76,6 +76,6 @@
 
 
 // m) отримати елементи з класом text2 та змінити їм текст на назву групи (mon-year. Пример sep-2021)
-let elementText2 = document.getElementsByClassName('text2');
-console.log(elementText2);
-elementText2[0].innerText ='sep-2021'
+// let elementText2 = document.getElementsByClassName('text2');
+// console.log(elementText2);
+// elementText2[0].innerText ='sep-2021'
